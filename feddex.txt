@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a web page about me.</h1>
+<p>iam prideful. This is my first time working with html.</p>
+
+<a href="https://www.ub.edu.bz">This is where iam learning computing.</a>
+
+<p><img src="ori.jpg" alt="W3Schools.com" width="104" height="142">
+
+
+</body>
+</html>
